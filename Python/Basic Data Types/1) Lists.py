@@ -4,7 +4,7 @@
 	Challenge: Python
 	Subdomain: Basic Data Types
 	Hacker Rank Link: https://www.hackerrank.com/challenges/python-lists/
-"""
+""" 
 
 if __name__ == '__main__':
     N = int(raw_input())
